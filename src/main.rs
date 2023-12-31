@@ -36,9 +36,8 @@ fn main() {
 
     // Display Commit History
     // println!("Commit History:");
-    // display_commit_history(&repo, 10); 
+    // display_commit_history(&repo, 10);
 }
-
 fn count_commits(repo: &Repository) -> usize {
     // Implementation to count commits
     let mut count = 0;
