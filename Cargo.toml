@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 ferris-says = "0.3.1"
 lightmon = "0.2.0"
+git2 = "0.18.1"
