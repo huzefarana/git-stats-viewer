@@ -36,7 +36,7 @@ fn main() {
 
     // Display Commit History
     // println!("Commit History:");
-    // display_commit_history(&repo, 10); // Display last 10 commits
+    // display_commit_history(&repo, 10); 
 }
 
 fn count_commits(repo: &Repository) -> usize {
