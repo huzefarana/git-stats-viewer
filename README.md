@@ -2,6 +2,11 @@
 ```bash
 https://github.com/huzefarana/git-stats-viewer/
 ```
+### Install Rust & Cargo
+```
+curl https://sh.rustup.rs -sSf | sh
+```
+
 ## Run app
 ```bash
 cargo run
